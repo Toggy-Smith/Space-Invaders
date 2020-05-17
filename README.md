@@ -1,3 +1,9 @@
 # Space Invaders
- 
-Written in C++ with the use of the SFML library. Completed in three days.
+
+## How can I run this program?
+
+At the top of this page, there will be a series of tabs. Below that is another series of tabs which should list commits, branches, packages, releases, etc. Click on the release tab and then click on the .zip file there to download the program.
+
+## How was this program written?
+
+This program was written in three days in the C++ language and uses the Simple Fast Multimedia Library (SFML) to draw graphics.
